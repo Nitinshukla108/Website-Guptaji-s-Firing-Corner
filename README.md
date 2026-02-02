@@ -2,6 +2,8 @@
 
 Welcome to the official repository of **Guptaji's Firing Corner** (Firing Bites). This is a high-performance, dark-themed, premium web application built for the famous snack hub in Dindoli, Surat.
 
+### 🌐 Live Demo: [Click Here to Order]https://guptajisfiringcorner-tisz.vercel.app/
+
 ## 🚀 Project Overview
 This project features the "Firing Edition" design—a high-contrast UI with orange accents, glassmorphism effects, and a fully modular architecture.
 
