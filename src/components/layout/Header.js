@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     paddingHorizontal: '5%',
     height: 80,
-    backgroundColor: 'rgba(0,0,0,0.8)', // Thoda dark overlay
+    backgroundColor: 'rgba(0,0,0,0.8)', 
     position: 'absolute',
     top: 0, left: 0, right: 0,
     zIndex: 100,

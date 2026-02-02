@@ -27,4 +27,3 @@ export const HomeScreen = ({ onExplore }) => {
     </View>
   );
 };
-// Hero aur Strip ke styles yahan aayenge...

@@ -9,7 +9,6 @@ export const COLORS = {
 };
 
 export const IMAGES = {
-  // FIXED PATH: Assets src ke andar hi hain
   samosa: require('../assets/samosa.jpg'),
   chai: require('../assets/chai.jpg'),
   vadapav: require('../assets/vadapav.webp'),
